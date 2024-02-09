@@ -1,17 +1,21 @@
-![Maths Logo](https://github.com/Loqiu971/Maths/blob/main/icone.png "Maths logo")
+![Maths Logo](https://github.com/Loqiu971/Maths/blob/main/icone2.png "Maths logo")
 
-# Maths [PROG : C]
+# Maths [PROG: C]
 
 ## Description
 
 Sujet:
 
+```bash
 char *my_getnbr_base(int n, char *base);
 char *my_addnbr_base(char *n1, char *n2, char *base);
+```
 
-	Le principe de ces fonctions est d’effectuer de l’arithmétique avec des nombres encodés dans
+Le principe de ces fonctions est d’effectuer de l’arithmétique avec des nombres encodés dans
 des bases arbitraires. Les nombres sont de simple chaíne de caractère.
 
+## Code  :
+```bash
 #include <stdio.h>
 void main()
 {
@@ -26,5 +30,6 @@ free(n1);
 free(n2);
 free(n3);
 }
+```
 
 Il vous est demandé de fournir un main.c testant vos fonctions.
