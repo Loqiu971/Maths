@@ -1,4 +1,4 @@
-![Maths Logo](https://github.com/Loqiu971/Maths/blob/main/icone2.png "Maths logo")
+![Maths Logo](https://github.com/Loqiu971/Maths/blob/main/icone2.jpg "Maths logo")
 
 # Maths [PROG: C]
 
